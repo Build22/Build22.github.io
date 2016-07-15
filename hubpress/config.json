@@ -9,7 +9,11 @@
     "postsPerPage": "5",
     "disqus": "jadenagaraja"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "work@singularitymatrix.me",
+    "twitter": "https://twitter.com/JadeNagaraja",
+    "github": "https://github.com/SingularityMatrix"
+  },
   "theme": {
     "name": "casper"
   }
