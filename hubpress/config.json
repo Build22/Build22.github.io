@@ -4,7 +4,13 @@
     "repositoryName": "SingularityMatrix.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Singularity Matrix",
+    "postsPerPage": "5",
+    "disqus": "jadenagaraja"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
